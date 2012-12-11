@@ -163,15 +163,18 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color: #c6e2ff;
+  background-color: #6298c7;
+  background-image:url('https://dl.dropbox.com/u/52386513/clouds-2.jpg')
 }
 
 .white {
     margin-right: auto;
     margin-left: auto;
     width: 95%;
-    height: 75%;
-    background-color: #fffafa;
+    height: 60%;
+	
+	background-color: #d8eaf6;
+    /*background-color: #ebf4fb;*/
 }
 
 .white-wrapper {
@@ -180,7 +183,9 @@ body {
     width: 1000px;
     min-height: 100px;
     max-height: 5000px;
-    background-color: #fffafa;
+	
+    background-color: #d8eaf6;
+	border: 1px solid #acd8f0;
 }
 
 a {
